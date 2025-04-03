@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ohinayi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React,Phyton,C++
-- 💞️ I’m looking to collaborate on project concerning Web Development
+- 💞️ I’m looking to collaborate on project concerning Software Development
 - 📫 contact me at ohiabduljabbar@gmail.com
 
 <!---
